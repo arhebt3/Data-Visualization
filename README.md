@@ -1,6 +1,9 @@
 # Data-Visualization
 ![Uploading Screenshot (334).png…]()
 
+![17509134384386864557296264327250](https://github.com/user-attachments/assets/f440a249-30d3-4eec-ab51-57a826e604f9)
+![17509134384386864557296264327250](https://github.com/user-attachments/assets/f440a249-30d3-4eec-ab51-57a826e604f9)
+
 📊 Project Overview This dashboard helps in:
 
 Understanding the distribution of car models by make, body type, and fuel type.
